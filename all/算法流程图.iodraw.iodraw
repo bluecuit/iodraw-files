@@ -225,8 +225,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-Bg95fVTBiaPCl5VkE6-17" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="1940" width="100" height="60" as="geometry" />
+        <mxCell id="i-Bg95fVTBiaPCl5VkE6-17" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#f8cecc;fillStyle=hatch;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="844" y="1922.5" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
