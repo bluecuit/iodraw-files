@@ -67,7 +67,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-21" value="降低温度" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="339" y="1491" width="124" height="49" as="geometry" />
+          <mxGeometry x="339" y="1470" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-22" value="保存最优路径" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="721" y="1552" width="156" height="49" as="geometry" />
