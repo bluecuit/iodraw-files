@@ -279,13 +279,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i-Bg95fVTBiaPCl5VkE6-41" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.529;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-Bg95fVTBiaPCl5VkE6-37" target="q9FEUzuOaRZdS9oUaBSV-1">
+        <mxCell id="i-Bg95fVTBiaPCl5VkE6-41" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.529;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.61;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-Bg95fVTBiaPCl5VkE6-37" target="q9FEUzuOaRZdS9oUaBSV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="694" y="531" as="sourcePoint" />
             <mxPoint x="870" y="570" as="targetPoint" />
             <Array as="points">
               <mxPoint x="780" y="560" />
-              <mxPoint x="860" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
