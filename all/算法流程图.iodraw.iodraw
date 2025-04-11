@@ -230,7 +230,7 @@
           <mxGeometry x="844" y="1922.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-Bg95fVTBiaPCl5VkE6-20" value="站点（shapefile文件）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="490" width="130" height="60" as="geometry" />
+          <mxGeometry x="711.5" y="430" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
