@@ -215,7 +215,7 @@
           <mxGeometry x="720" y="370" width="111" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-Bg95fVTBiaPCl5VkE6-23" value="输出shapefile" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="729" y="1660" width="140" height="60" as="geometry" />
+          <mxGeometry x="729" y="1680" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-Bg95fVTBiaPCl5VkE6-24" value="线要素&lt;div&gt;（shapefile文件）&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="733.5" y="1810" width="131" height="60" as="geometry" />
@@ -228,7 +228,6 @@
             <mxPoint x="800" y="1830" as="sourcePoint" />
             <mxPoint x="864.5" y="1926.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="800" y="1880" />
               <mxPoint x="820" y="1900" />
             </Array>
           </mxGeometry>
