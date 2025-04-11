@@ -224,7 +224,7 @@
           <mxGeometry x="709.5" y="460" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-Bg95fVTBiaPCl5VkE6-22" value="输入站点文件" style="shape=parallelogram;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fillColor=#ffe6cc;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="705" y="350" width="139" height="60" as="geometry" />
+          <mxGeometry x="690" y="350" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-Bg95fVTBiaPCl5VkE6-23" value="输出shapefile" style="shape=parallelogram;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fillColor=#ffe6cc;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="729" y="1680" width="140" height="60" as="geometry" />
