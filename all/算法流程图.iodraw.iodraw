@@ -13,7 +13,7 @@
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-3" value="报错并终止" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="919" y="1772" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q9FEUzuOaRZdS9oUaBSV-6" value="分离起点、途径点、终点" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="q9FEUzuOaRZdS9oUaBSV-6" value="据FID字段分离起点、途径点、终点" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="467" y="822" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-7" value="构建道路网络图+建立空间索引" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
