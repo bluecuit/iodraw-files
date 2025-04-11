@@ -28,7 +28,7 @@
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-12" value="模拟退火初始化" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="499" y="1198" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q9FEUzuOaRZdS9oUaBSV-13" value="温度&gt;终止温度?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=hatch;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="q9FEUzuOaRZdS9oUaBSV-13" value="温度&gt;终止温度?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=dashed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="494" y="1297" width="182" height="182" as="geometry" />
         </mxCell>
         <mxCell id="i-Bg95fVTBiaPCl5VkE6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9FEUzuOaRZdS9oUaBSV-14">
