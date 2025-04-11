@@ -75,9 +75,6 @@
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-22" value="保存最优路径" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="721" y="1552" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q9FEUzuOaRZdS9oUaBSV-24" value="计算总耗时" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="729" y="1720" width="140" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-26" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitX=0.496;exitY=0.892;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i-Bg95fVTBiaPCl5VkE6-20" target="q9FEUzuOaRZdS9oUaBSV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -179,14 +176,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q9FEUzuOaRZdS9oUaBSV-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.24;entryY=0.01;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9FEUzuOaRZdS9oUaBSV-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="799" y="1857" />
-            </Array>
-            <mxPoint x="869.591836734694" y="1928" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.76;entryY=0.01;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9FEUzuOaRZdS9oUaBSV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -223,7 +212,7 @@
           <mxGeometry x="720" y="370" width="111" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i-Bg95fVTBiaPCl5VkE6-23" value="输出shapefile" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="729" y="1630" width="140" height="60" as="geometry" />
+          <mxGeometry x="729" y="1640" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
