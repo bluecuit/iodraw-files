@@ -7,7 +7,7 @@
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-1" value="读取输入参数" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="699" y="589" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q9FEUzuOaRZdS9oUaBSV-2" value="检查点数≥2?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="q9FEUzuOaRZdS9oUaBSV-2" value="检查点数≥2?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=hatch;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="709" y="687" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-3" value="报错并终止" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -28,7 +28,7 @@
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-12" value="模拟退火初始化" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="499" y="1198" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q9FEUzuOaRZdS9oUaBSV-13" value="温度&gt;终止温度?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=dashed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="q9FEUzuOaRZdS9oUaBSV-13" value="温度&gt;终止温度?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=hatch;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="494" y="1297" width="182" height="182" as="geometry" />
         </mxCell>
         <mxCell id="i-Bg95fVTBiaPCl5VkE6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9FEUzuOaRZdS9oUaBSV-14">
@@ -45,7 +45,7 @@
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-16" value="构造路径并计算成本" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="1772" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q9FEUzuOaRZdS9oUaBSV-17" value="接受新解?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="q9FEUzuOaRZdS9oUaBSV-17" value="接受新解?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=hatch;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="364" y="1893" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="i-Bg95fVTBiaPCl5VkE6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9FEUzuOaRZdS9oUaBSV-18" target="q9FEUzuOaRZdS9oUaBSV-19">
@@ -60,7 +60,7 @@
         <mxCell id="i-Bg95fVTBiaPCl5VkE6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9FEUzuOaRZdS9oUaBSV-19" target="q9FEUzuOaRZdS9oUaBSV-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q9FEUzuOaRZdS9oUaBSV-19" value="更优解?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="q9FEUzuOaRZdS9oUaBSV-19" value="更优解?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=default;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=hatch;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="533.5" y="2060" width="103" height="103" as="geometry" />
         </mxCell>
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-20" value="更新最优解" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
