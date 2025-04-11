@@ -85,16 +85,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q9FEUzuOaRZdS9oUaBSV-29" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9FEUzuOaRZdS9oUaBSV-2" target="q9FEUzuOaRZdS9oUaBSV-6" edge="1">
-          <mxGeometry x="0.1093" y="35" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="610" y="740" />
-              <mxPoint x="575" y="859" />
-            </Array>
-            <mxPoint x="575" y="895" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9FEUzuOaRZdS9oUaBSV-6" target="q9FEUzuOaRZdS9oUaBSV-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
