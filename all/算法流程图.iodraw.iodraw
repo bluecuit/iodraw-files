@@ -51,8 +51,11 @@
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-17" value="接受新解?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="364" y="1893" width="119" height="119" as="geometry" />
         </mxCell>
+        <mxCell id="i-Bg95fVTBiaPCl5VkE6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9FEUzuOaRZdS9oUaBSV-18" target="q9FEUzuOaRZdS9oUaBSV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-18" value="更新当前解" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="354" y="2085" width="136" height="49" as="geometry" />
+          <mxGeometry x="355.5" y="2087" width="136" height="49" as="geometry" />
         </mxCell>
         <mxCell id="i-Bg95fVTBiaPCl5VkE6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9FEUzuOaRZdS9oUaBSV-19" target="q9FEUzuOaRZdS9oUaBSV-20">
           <mxGeometry relative="1" as="geometry" />
