@@ -1,14 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1166" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="972" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-1" value="读取输入参数" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="699" y="589" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="i-Bg95fVTBiaPCl5VkE6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q9FEUzuOaRZdS9oUaBSV-2" target="q9FEUzuOaRZdS9oUaBSV-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q9FEUzuOaRZdS9oUaBSV-2" value="检查点数≥2?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="709" y="687" width="135" height="135" as="geometry" />
@@ -216,6 +213,16 @@
         </mxCell>
         <mxCell id="i-Bg95fVTBiaPCl5VkE6-11" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="645.5" y="2087" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i-Bg95fVTBiaPCl5VkE6-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="900" as="sourcePoint" />
+            <mxPoint x="800" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="900" />
+              <mxPoint x="750" y="850" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
