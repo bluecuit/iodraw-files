@@ -49,7 +49,7 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-6" value="步行圈覆盖度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="570" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-7" value="步行圈覆盖度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-7" value="校车运营成本" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="580" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
