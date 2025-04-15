@@ -32,7 +32,7 @@
           <mxGeometry x="420" y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-5" value="可达性分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="510" width="80" height="110" as="geometry" />
+          <mxGeometry x="550" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-6" value="步行圈覆盖度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="630" width="80" height="110" as="geometry" />
