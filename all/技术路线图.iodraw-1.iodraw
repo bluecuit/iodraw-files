@@ -99,12 +99,11 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.397;exitY=1.009;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;strokeColor=#B9E0A5;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-1" target="t89isgwUVG9tonuSGzqZ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.598;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#F19C99;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-1">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.598;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#F19C99;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-1" target="t89isgwUVG9tonuSGzqZ-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="558" y="375" />
-              <mxPoint x="558" y="445" />
+              <mxPoint x="558" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
