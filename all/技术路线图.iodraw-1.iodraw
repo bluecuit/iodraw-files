@@ -77,7 +77,7 @@
           <mxGeometry x="470" y="280" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-2" value="单行道" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="537.35" y="280" width="62.65" height="20" as="geometry" />
+          <mxGeometry x="537.35" y="280" width="62.65" height="15" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-3" value="道路限速" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="537.3493975903615" y="305" width="62.65060240963856" height="20" as="geometry" />
