@@ -32,7 +32,7 @@
           <mxGeometry x="420" y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-5" value="可达性分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="650" width="80" height="30" as="geometry" />
+          <mxGeometry x="320" y="540" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-6" value="步行圈覆盖度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="650" width="80" height="30" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="310" y="80" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-17" value="目的地热点图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="580" width="80" height="30" as="geometry" />
+          <mxGeometry x="540" y="585" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-18" value="路网数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="260" width="80" height="30" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-20" value="&lt;font face=&quot;等线&quot;&gt;OD成本矩阵&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t89isgwUVG9tonuSGzqZ-21" value="&lt;font face=&quot;等线&quot;&gt;OD成本矩阵&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="500" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
