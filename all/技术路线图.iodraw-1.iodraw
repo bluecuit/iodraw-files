@@ -105,14 +105,14 @@
             <mxPoint x="355" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-37" value="站点&lt;div&gt;数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=left;" vertex="1" parent="1">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-37" value="&amp;nbsp; &amp;nbsp;站点&lt;div&gt;&amp;nbsp; &amp;nbsp;数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=left;" vertex="1" parent="1">
           <mxGeometry x="660" y="280" width="115" height="70" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-39" value="原有站点" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="710" y="290" width="55" height="15" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-44" value="调整后站点" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="710" y="320" width="55" height="15" as="geometry" />
+          <mxGeometry x="710" y="320" width="55" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
