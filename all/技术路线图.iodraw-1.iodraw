@@ -32,13 +32,13 @@
           <mxGeometry x="420" y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-5" value="可达性分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="610" width="80" height="30" as="geometry" />
+          <mxGeometry x="320" y="650" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-6" value="步行圈覆盖度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494" y="560" width="80" height="30" as="geometry" />
+          <mxGeometry x="430" y="650" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-7" value="校车运营成本" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="580" width="80" height="30" as="geometry" />
+          <mxGeometry x="540" y="650" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-9" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="374" y="280" width="166" height="70" as="geometry" />
