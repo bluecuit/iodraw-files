@@ -58,12 +58,6 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-16" target="95hj88RPTY9BScFc8wV0-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-16" target="95hj88RPTY9BScFc8wV0-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-16" target="95hj88RPTY9BScFc8wV0-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-16" value="校车运营痛点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="80" width="290" height="30" as="geometry" />
         </mxCell>
@@ -85,10 +79,10 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-22" value="可达性分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="410" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="95hj88RPTY9BScFc8wV0-7" target="t89isgwUVG9tonuSGzqZ-16">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="95hj88RPTY9BScFc8wV0-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="577" y="130" as="sourcePoint" />
-            <mxPoint x="477" y="170" as="targetPoint" />
+            <mxPoint x="610" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
