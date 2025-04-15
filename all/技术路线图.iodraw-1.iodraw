@@ -56,10 +56,15 @@
           <mxGeometry x="86" y="50" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-16" target="95hj88RPTY9BScFc8wV0-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="140" />
+              <mxPoint x="355" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-16" value="校车运营痛点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="80" width="290" height="50" as="geometry" />
+          <mxGeometry x="310" y="80" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-17" value="目的地热点图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="710" width="80" height="30" as="geometry" />
