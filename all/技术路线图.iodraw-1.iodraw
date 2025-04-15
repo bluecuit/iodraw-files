@@ -19,10 +19,10 @@
         <mxCell id="95hj88RPTY9BScFc8wV0-5" value="目的地覆盖度" style="whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#cce5ff;" parent="1" vertex="1">
           <mxGeometry x="310" y="150" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="95hj88RPTY9BScFc8wV0-6" value="可达性" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="95hj88RPTY9BScFc8wV0-6" value="可达性" style="whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="410" y="150" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="95hj88RPTY9BScFc8wV0-7" value="运营预算" style="whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="95hj88RPTY9BScFc8wV0-7" value="运营预算" style="whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffcccc;" parent="1" vertex="1">
           <mxGeometry x="510" y="150" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-5" value="可视化可达性底图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
