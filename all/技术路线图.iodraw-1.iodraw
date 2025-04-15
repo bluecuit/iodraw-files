@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-16" value="校车运营痛点" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="310" y="80" width="290" height="30" as="geometry" />
+          <mxGeometry x="310" y="80" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-17" value="目的地热点图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="560" width="80" height="30" as="geometry" />
