@@ -111,7 +111,7 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-38" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="709.9993975903615" y="390" width="62.65060240963851" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-39" value="单行道" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="t89isgwUVG9tonuSGzqZ-38">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-39" value="原有站点" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="t89isgwUVG9tonuSGzqZ-38">
           <mxGeometry x="0.0006024096385317534" width="62.65" height="15" as="geometry" />
         </mxCell>
       </root>
