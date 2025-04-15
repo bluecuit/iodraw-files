@@ -149,7 +149,7 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-46" target="t89isgwUVG9tonuSGzqZ-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-46" value="原有校车路线" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-46" value="原有&lt;div&gt;校车路线&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="522.65" y="667.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=#F19C99;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-47" target="t89isgwUVG9tonuSGzqZ-21">
@@ -158,7 +158,7 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-47" target="t89isgwUVG9tonuSGzqZ-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-47" value="调整后校车路线" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-47" value="调整后&lt;div&gt;校车路线&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="520" y="565" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#F19C99;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-32" target="t89isgwUVG9tonuSGzqZ-47">
