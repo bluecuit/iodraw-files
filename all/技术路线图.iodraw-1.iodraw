@@ -65,10 +65,10 @@
           <mxGeometry x="560" y="710" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-18" value="路网数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="280" width="70" height="60" as="geometry" />
+          <mxGeometry x="310" y="280" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-19" value="POI数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="300" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-20" value="&lt;font face=&quot;等线&quot;&gt;OD成本矩阵&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="415" width="80" height="30" as="geometry" />
