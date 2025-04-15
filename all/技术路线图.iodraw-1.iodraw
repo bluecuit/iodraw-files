@@ -103,9 +103,6 @@
         <mxCell id="95hj88RPTY9BScFc8wV0-10" value="&lt;font face=&quot;Helvetica&quot;&gt;Dijkstra算法&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="t89isgwUVG9tonuSGzqZ-33" vertex="1">
           <mxGeometry x="10" y="10" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-32" target="t89isgwUVG9tonuSGzqZ-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="95hj88RPTY9BScFc8wV0-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="355" y="280" as="targetPoint" />
