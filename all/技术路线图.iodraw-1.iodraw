@@ -35,10 +35,10 @@
           <mxGeometry x="320" y="510" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-6" value="步行圈覆盖度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="560" width="80" height="110" as="geometry" />
+          <mxGeometry x="370" y="630" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-7" value="校车运营成本" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="560" width="80" height="110" as="geometry" />
+          <mxGeometry x="460" y="640" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-9" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="477" y="300" width="166" height="70" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="310" y="80" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-17" value="目的地热点图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="640" width="80" height="30" as="geometry" />
+          <mxGeometry x="560" y="710" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-18" value="路网数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="260" width="80" height="30" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="550" y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-21" value="&lt;font face=&quot;等线&quot;&gt;路径成本显化模型&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="643" y="520" width="80" height="30" as="geometry" />
+          <mxGeometry x="420" y="510" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
