@@ -32,16 +32,16 @@
           <mxGeometry x="420" y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-1" value="道路拓扑" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="280" width="80" height="110" as="geometry" />
+          <mxGeometry x="320" y="280" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-2" value="单行道" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="305" width="80" height="20" as="geometry" />
+          <mxGeometry x="460" y="280" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-3" value="道路限速" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="330" width="80" height="20" as="geometry" />
+          <mxGeometry x="460" y="305" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-4" value="通行规则" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="360" width="80" height="20" as="geometry" />
+          <mxGeometry x="460" y="330" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-5" value="可达性分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="610" width="80" height="30" as="geometry" />
