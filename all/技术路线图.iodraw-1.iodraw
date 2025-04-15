@@ -20,7 +20,7 @@
           <mxGeometry x="310" y="150" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="95hj88RPTY9BScFc8wV0-6" value="可达性" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="180" width="90" height="80" as="geometry" />
+          <mxGeometry x="410" y="150" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="95hj88RPTY9BScFc8wV0-7" value="运营预算" style="whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="510" y="150" width="90" height="80" as="geometry" />
@@ -55,13 +55,8 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-4" value="通行规则" style="whiteSpace=wrap;html=1;" vertex="1" parent="t89isgwUVG9tonuSGzqZ-9">
           <mxGeometry x="86" y="50" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-16" target="95hj88RPTY9BScFc8wV0-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="455" y="130" />
-              <mxPoint x="355" y="130" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="t89isgwUVG9tonuSGzqZ-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-16" target="95hj88RPTY9BScFc8wV0-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-16" value="校车运营痛点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="80" width="290" height="30" as="geometry" />
