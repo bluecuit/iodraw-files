@@ -29,10 +29,10 @@
           <mxGeometry x="645" y="150" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-5" value="可视化可达性底图" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="420" y="645" width="80" height="65" as="geometry" />
+          <mxGeometry x="360" y="565" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-6" value="步行圈覆盖度" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="420" y="680" width="80" height="65" as="geometry" />
+          <mxGeometry x="420" y="642.5" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-7" value="校车运营成本" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="630" y="585" width="80" height="110" as="geometry" />
@@ -156,7 +156,7 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-32" target="t89isgwUVG9tonuSGzqZ-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.423;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-5" target="t89isgwUVG9tonuSGzqZ-6">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.423;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-5" target="t89isgwUVG9tonuSGzqZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
