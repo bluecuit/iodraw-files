@@ -117,6 +117,9 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-44" value="调整后站点" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=10;" vertex="1" parent="t89isgwUVG9tonuSGzqZ-45">
           <mxGeometry x="50" y="40" width="55" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="t89isgwUVG9tonuSGzqZ-46" value="可视化可达性底图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="635" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
