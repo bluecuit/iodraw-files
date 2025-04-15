@@ -17,10 +17,10 @@
           <mxGeometry x="260" y="560" width="40" height="150" as="geometry" />
         </mxCell>
         <mxCell id="95hj88RPTY9BScFc8wV0-5" value="目的地覆盖度" style="whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="310" y="140" width="90" height="80" as="geometry" />
+          <mxGeometry x="310" y="150" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="95hj88RPTY9BScFc8wV0-6" value="可达性" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="140" width="90" height="80" as="geometry" />
+          <mxGeometry x="410" y="150" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="95hj88RPTY9BScFc8wV0-7" value="运营预算" style="whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="510" y="140" width="90" height="80" as="geometry" />
@@ -68,13 +68,13 @@
           <mxGeometry x="315" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-20" value="&lt;font face=&quot;等线&quot;&gt;OD成本矩阵&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="460" width="80" height="30" as="geometry" />
+          <mxGeometry x="420" y="415" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-21" value="&lt;font face=&quot;等线&quot;&gt;路径成本显化模型&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="510" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-22" value="可达性分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="530" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="410" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
