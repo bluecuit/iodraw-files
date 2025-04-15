@@ -69,17 +69,6 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-20" value="&lt;font face=&quot;Helvetica&quot;&gt;OD成本矩阵&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="450" y="420" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#F19C99;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="550" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="713" y="535" />
-              <mxPoint x="713" y="535" />
-              <mxPoint x="713" y="560" />
-              <mxPoint x="730" y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-21" value="&lt;font face=&quot;Helvetica&quot;&gt;路径成本&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;显化模型&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="660" y="420" width="70" height="90" as="geometry" />
         </mxCell>
