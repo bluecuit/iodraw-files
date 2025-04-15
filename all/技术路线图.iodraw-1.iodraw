@@ -80,10 +80,10 @@
           <mxGeometry x="620" y="290" width="62.65" height="15" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-3" value="道路限速" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="537.3493975903615" y="305" width="62.65" height="15" as="geometry" />
+          <mxGeometry x="619.9993975903615" y="310" width="62.65" height="15" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-4" value="通行规则" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="537.3493975903615" y="330" width="62.65" height="15" as="geometry" />
+          <mxGeometry x="619.9993975903615" y="330" width="62.65" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
