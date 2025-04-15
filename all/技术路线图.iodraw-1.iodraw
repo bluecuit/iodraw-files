@@ -26,7 +26,7 @@
           <mxGeometry x="645" y="150" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-5" value="可视化可达性底图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="570" width="80" height="40" as="geometry" />
+          <mxGeometry x="430" y="720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-6" value="步行圈覆盖度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="570" width="80" height="110" as="geometry" />
@@ -80,6 +80,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-1" target="t89isgwUVG9tonuSGzqZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t89isgwUVG9tonuSGzqZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-1" target="t89isgwUVG9tonuSGzqZ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-1" value="&amp;nbsp; &amp;nbsp; 道路&lt;div&gt;&amp;nbsp; 网络图&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=left;" vertex="1" parent="1">
