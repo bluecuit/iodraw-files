@@ -16,7 +16,7 @@
         <mxCell id="95hj88RPTY9BScFc8wV0-4" value="结果评价" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="260" y="560" width="40" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="95hj88RPTY9BScFc8wV0-5" value="时长" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="95hj88RPTY9BScFc8wV0-5" value="目的地覆盖度" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="95hj88RPTY9BScFc8wV0-6" value="可达性" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -44,10 +44,10 @@
           <mxGeometry x="470" y="370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-5" value="可达性分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="610" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-6" value="步行圈覆盖度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="570" width="80" height="30" as="geometry" />
+          <mxGeometry x="494" y="560" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-7" value="校车运营成本" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="580" width="80" height="30" as="geometry" />
