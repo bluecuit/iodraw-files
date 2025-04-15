@@ -103,10 +103,11 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.233;exitY=1.001;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#B9E0A5;exitPerimeter=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-1" target="t89isgwUVG9tonuSGzqZ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.598;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#F19C99;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-1" target="t89isgwUVG9tonuSGzqZ-20">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.48;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#F19C99;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-1" target="t89isgwUVG9tonuSGzqZ-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="400" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="558" y="350" />
               <mxPoint x="558" y="400" />
               <mxPoint x="510" y="400" />
             </Array>
