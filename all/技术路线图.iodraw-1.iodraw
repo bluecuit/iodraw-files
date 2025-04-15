@@ -167,7 +167,7 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-47" value="调整后&lt;div&gt;校车路线&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="512.65" y="560" width="127.35" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#F19C99;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-32" target="t89isgwUVG9tonuSGzqZ-47">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#F19C99;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-32" target="t89isgwUVG9tonuSGzqZ-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B9E0A5;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-5" target="t89isgwUVG9tonuSGzqZ-6">
