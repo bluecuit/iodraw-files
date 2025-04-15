@@ -35,7 +35,7 @@
           <mxGeometry x="420" y="642.5" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-7" value="校车运营成本" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="660" y="670" width="80" height="110" as="geometry" />
+          <mxGeometry x="645" y="600" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B9E0A5;" edge="1" parent="1" source="t89isgwUVG9tonuSGzqZ-16" target="95hj88RPTY9BScFc8wV0-6">
           <mxGeometry relative="1" as="geometry" />
@@ -103,7 +103,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="558" y="420" />
+              <mxPoint x="558" y="400" />
+              <mxPoint x="510" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
