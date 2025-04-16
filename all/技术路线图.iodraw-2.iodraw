@@ -8,6 +8,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="384.02" as="sourcePoint" />
             <mxPoint x="567.88" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF99FF;" parent="1" source="t89isgwUVG9tonuSGzqZ-37" target="t89isgwUVG9tonuSGzqZ-32" edge="1">
