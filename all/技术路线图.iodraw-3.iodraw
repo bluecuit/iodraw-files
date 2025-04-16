@@ -38,11 +38,11 @@
         <mxCell id="95hj88RPTY9BScFc8wV0-7" value="运营预算" style="whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffcccc;" parent="1" vertex="1">
           <mxGeometry x="645" y="150" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-5" value="可视化可达性底图" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="360" y="560" width="80" height="65" as="geometry" />
+        <mxCell id="t89isgwUVG9tonuSGzqZ-5" value="可视化&lt;div&gt;可达性底图&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="360" y="560" width="90" height="65" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-6" value="步行圈覆盖度" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="420" y="642.5" width="80" height="65" as="geometry" />
+          <mxGeometry x="410" y="642.5" width="90" height="65" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-7" value="校车运营成本" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="650" y="560" width="80" height="150" as="geometry" />
