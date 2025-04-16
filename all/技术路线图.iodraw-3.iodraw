@@ -44,7 +44,7 @@
         <mxCell id="t89isgwUVG9tonuSGzqZ-6" value="步行圈&lt;div&gt;覆盖度&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="410" y="642.5" width="90" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-7" value="校车&lt;div&gt;运营成本&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-7" value="校车&lt;div style=&quot;font-size: 15px;&quot;&gt;运营成本&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="650" y="560" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B9E0A5;" parent="1" source="t89isgwUVG9tonuSGzqZ-16" target="95hj88RPTY9BScFc8wV0-6" edge="1">
@@ -185,7 +185,7 @@
             <mxPoint x="529.9975" y="652.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-47" value="调整后&lt;div&gt;校车路线&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-47" value="调整后&lt;div style=&quot;font-size: 15px;&quot;&gt;校车路线&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="512.65" y="560" width="127.35" height="55" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF99FF;" parent="1" source="t89isgwUVG9tonuSGzqZ-32" target="t89isgwUVG9tonuSGzqZ-47" edge="1">
