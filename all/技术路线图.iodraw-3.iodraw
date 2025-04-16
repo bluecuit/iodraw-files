@@ -38,10 +38,10 @@
         <mxCell id="95hj88RPTY9BScFc8wV0-7" value="运营预算" style="whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffcccc;" parent="1" vertex="1">
           <mxGeometry x="645" y="150" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-5" value="可视化&lt;div&gt;可达性底图&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-5" value="可视化&lt;div style=&quot;font-size: 15px;&quot;&gt;可达性底图&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="360" y="560" width="90" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-6" value="步行圈&lt;div&gt;覆盖度&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-6" value="步行圈&lt;div style=&quot;font-size: 15px;&quot;&gt;覆盖度&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="410" y="642.5" width="90" height="65" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-7" value="校车&lt;div style=&quot;font-size: 15px;&quot;&gt;运营成本&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
@@ -60,7 +60,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-17" value="目的地热点图" style="whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#FFF4C3;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-17" value="目的地热点图" style="whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#FFF4C3;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="312.5" y="560" width="37.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t89isgwUVG9tonuSGzqZ-18" target="t89isgwUVG9tonuSGzqZ-1" edge="1">
@@ -173,7 +173,7 @@
             <mxPoint x="620.0024999999999" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t89isgwUVG9tonuSGzqZ-46" value="原有&lt;div&gt;校车路线&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="t89isgwUVG9tonuSGzqZ-46" value="原有&lt;div style=&quot;font-size: 15px;&quot;&gt;校车路线&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFF4C3;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="512.65" y="652.5" width="127.35" height="55" as="geometry" />
         </mxCell>
         <mxCell id="t89isgwUVG9tonuSGzqZ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.841;exitY=-0.006;exitDx=0;exitDy=0;strokeColor=#F19C99;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="t89isgwUVG9tonuSGzqZ-47" target="t89isgwUVG9tonuSGzqZ-21" edge="1">
